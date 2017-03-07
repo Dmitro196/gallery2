@@ -16,7 +16,7 @@ body {
 }
 .scene
 {
-	// background: linear-gradient(135deg, #B5BDC8 0%, #828C95 36%, #28343B 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
+	background: linear-gradient(135deg, #B5BDC8 0%, #828C95 36%, #28343B 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);
 	position:relative;
 	margin:0 auto;
 	width:500px;
